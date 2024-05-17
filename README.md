@@ -80,5 +80,4 @@ This project is licensed under the MIT License.
 ## Acknowledgements
 
 
-This project was developed and executed by Owen and Jasmine as a part of a class project.
-# challenge-20
+This project was developed and executed by Jasmine after a fews of studying React.
